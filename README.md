@@ -38,7 +38,9 @@
 AI 부트캠프 팀 프로젝트. 예산과 여행 조건을 입력하면 AI가 맞춤 여행 계획을 추천해주는 서비스.
 - Spring Boot 기반 REST API 설계·구현
 - 데이터베이스 설계 담당
+
 https://github.com/sujin711/METU
+
 https://met-u.vercel.app/login
 
 ---
