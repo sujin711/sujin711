@@ -16,19 +16,15 @@
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square)
  
 **Database**
- 
+
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
  
 **AI**
  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-4B8BBE?style=flat-square)
-![LLM](https://img.shields.io/badge/LLM-412991?style=flat-square)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-6B4FBB?style=flat-square)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Upstage](https://img.shields.io/badge/Upstage%20Document%20Parse-0066FF?style=flat-square)
  
 **Frontend**
  
