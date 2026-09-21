@@ -27,11 +27,6 @@
 ![RAG](https://img.shields.io/badge/RAG-4B8BBE?style=flat-square)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
-- Java·Python 기반 프로그래밍
-- Spring Boot 기반 REST API 설계·구현
-- 데이터베이스 설계 및 연동
-- 생성형 AI API 및 RAG 기반 서비스 구현 경험
-
 ---
 
 ## 🚀 Projects
