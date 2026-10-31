@@ -50,8 +50,3 @@ AI 부트캠프 팀 프로젝트. 예산과 여행 조건을 입력하면 AI가 
 - LinkedIn: https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav
 - Email: sujin1264@gwnu.ac.kr
 
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujin711&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujin711&layout=compact)
--->
